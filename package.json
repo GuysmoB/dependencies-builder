@@ -1,0 +1,16 @@
+{
+  "name": "binance-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "filereader": "^0.10.3",
+    "line-reader": "^0.4.0",
+    "lodash": "^4.17.15"
+  }
+}
